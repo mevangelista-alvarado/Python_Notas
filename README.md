@@ -2,7 +2,7 @@
 Introducción básica en Google colabs al lenguaje de programación Python 
 ___
 
-**[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/main/Intro_a_Python_y_numeros.ipynb)**
+**[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
 
 **Cadenas -- Pendiente**
 
