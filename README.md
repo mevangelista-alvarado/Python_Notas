@@ -4,7 +4,7 @@ ___
 
 **[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
 
-**Cadenas -- Pendiente**
+**[Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Cadenas.ipynb)**
 
 **Listas -- Pendiente**
 
@@ -21,6 +21,9 @@ ___
 **Editores -- Pendiente**
 
 **Instalción -- Prendiente**
+
+**Módulos**
+ * [Sympy](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Sympy.ipynb)
 
 ___
 
