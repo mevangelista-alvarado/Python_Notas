@@ -9,7 +9,7 @@ ___
 
 **[Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Cadenas.ipynb)**
 
-**Listas -- Pendiente**
+**[Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
 
 **Estructuras de Control -- Pendiente**
 
