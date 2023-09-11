@@ -16,8 +16,6 @@ ___
 
 **Bucles -- Pendiente**
 
-**Módulos -- Pendiente**
-
 **Editores -- Pendiente**
 
 **Instalción -- Prendiente**
