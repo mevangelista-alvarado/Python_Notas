@@ -11,15 +11,13 @@ ___
 
 **[Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
 
-**Estructuras de Control -- Pendiente**
+**[Estructuras de Control](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Estructuras_de_Control.ipynb)**
 
-**Diccionarios -- Pendiente**
+**[Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Diccionarios.ipynb)**
 
-**Funciones -- Pendiente**
+**[Funciones](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Funciones.ipynb)**
 
-**Bucles -- Pendiente**
-
-**Editores -- Pendiente**
+**[IDEs](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Editores.ipynb)**
 
 **Instalción -- Prendiente**
 
