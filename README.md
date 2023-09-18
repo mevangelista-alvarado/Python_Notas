@@ -19,9 +19,11 @@ ___
 
 **[IDEs](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Editores.ipynb)**
 
-**Instalción -- Prendiente**
+**Instalción -- Pendiente**
 
 **Módulos**
+ * [Importar Módulos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/ImportarModulos.ipynb)
+ * [Numpy](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_Numpy.ipynb)
  * [Sympy](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Sympy.ipynb)
 
 ___
