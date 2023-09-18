@@ -11,9 +11,9 @@ ___
 
 **[Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
 
-**[Estructuras de Control](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Estructuras_de_Control.ipynb)**
-
 **[Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Diccionarios.ipynb)**
+
+**[Estructuras de Control](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Estructuras_de_Control.ipynb)**
 
 **[Funciones](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Funciones.ipynb)**
 
