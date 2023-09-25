@@ -35,7 +35,7 @@ ___
    * [SymPy Oficial Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/sympy-cheatsheets-oficial.pdf) 
  
  * **Pandas**
-   * [Pandas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Sympy.ipynb)
+   * [Pandas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_Pandas.ipynb)
    * [Pandas Oficial Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/pandas-cheatsheets.pdf)
  
  * **Matplotlib**
