@@ -39,7 +39,7 @@ ___
    * [Pandas Oficial Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/pandas-cheatsheets.pdf)
  
  * **Matplotlib**
-   * [Mapplotlib Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/matplolib-cheatsheets.pdf)
+   * [Matplotlib Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/matplolib-cheatsheets.pdf)
 
  * **Scikit Learn**
    * [Scikit Learn Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/scikitlearn-cheatsheets.pdf)
