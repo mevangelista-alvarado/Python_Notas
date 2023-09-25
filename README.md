@@ -19,13 +19,19 @@ ___
 
 **[IDEs](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Editores.ipynb)**
 
-**Instalción -- Pendiente**
+**Cheat Sheet**
+ * [Data Structures](https://intellipaat.com/blog/wp-content/uploads/2022/09/Data-Structures-Cheat-Sheet-Full-Image.pdf)
 
 **Módulos**
  * [Importar Módulos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/ImportarModulos.ipynb)
  * [Numpy](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_Numpy.ipynb)
+   * [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+   
  * [Sympy](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Sympy.ipynb)
-
+   * [SymPy Cheat Sheet](http://daabzlatex.s3.amazonaws.com/9065616cce623384fe5394eddfea4c52.pdf) 
+ 
+ * [Pandas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Sympy.ipynb)
+   * [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) 
 ___
 
 ## Errores & Sugerencias
