@@ -39,6 +39,7 @@ ___
    * [Pandas Oficial Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/pandas-cheatsheets.pdf)
    * [Leer datos del sistema Ajolote y Pandas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/read_data_ajolote_system_pandas.ipynb)
    * [Leer datos del INEGI y GeoPandas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Read_data_from_web_with_GeoPandas_.ipynb)
+   * [Leer Google Sheets con Google Colab y Pandas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Leer_GSheets_con_Pandas.ipynb)
  
  * **Matplotlib**
    * [Matplotlib Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/matplolib-cheatsheets.pdf)
