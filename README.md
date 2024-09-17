@@ -17,7 +17,10 @@ ___
 
 **[Funciones](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Funciones.ipynb)**
 
+**[Clases](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Clases.ipynb)**
+
 **[IDEs](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Editores.ipynb)**
+
 
 **Cheat Sheet**
  * [Cheat Sheet 1](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-1.pdf)
