@@ -1,4 +1,6 @@
-![urc_logo_ext](https://github.com/URC-MAC/.github/assets/28746720/1d2b04df-5870-457b-82ab-4eb97ec99e17)
+<!--![urc_logo_ext](https://github.com/user-attachments/assets/63785e7e-b8ca-4465-88d7-17658739d3eb)-->
+<img width="495" height="198" src="https://github.com/user-attachments/assets/63785e7e-b8ca-4465-88d7-17658739d3eb" />
+
 ___
 
 # Una breve introducción a `Python`
