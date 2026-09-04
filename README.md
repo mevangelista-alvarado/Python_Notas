@@ -7,6 +7,9 @@ ___
 Introducción básica en Google colabs al lenguaje de programación Python 
 ___
 
+1.- Introducción
+**[Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
+<!--
 **[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
 
 **[Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Cadenas.ipynb)**
@@ -22,8 +25,7 @@ ___
 **[Clases](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Clases.ipynb)**
 
 **[IDEs](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Editores.ipynb)**
-
-
+-->
 **Cheat Sheet**
  * [Cheat Sheet 1](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-1.pdf)
  * [Cheat Sheet 2](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-2.pdf)
