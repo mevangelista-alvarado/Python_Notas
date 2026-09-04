@@ -8,9 +8,15 @@ ___
 
 *1.- Introducción*  
 
-**[Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/DelProblemaAlPrograma.ipynb)**
+**[1.1.- Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/DelProblemaAlPrograma.ipynb)**
 
-** [¿Qué es Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/QueEsPython.ipynb)**
+**[1.2.- ¿Qué es Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/QueEsPython.ipynb)**
+
+**[1.3.- ¿Donde Ejecutar Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/DondeEjecutarPython.ipynb)**
+
+*2.- Tipos de Datos y Variables*  
+
+**[2.1.- Variables](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Variables.ipynb)**
 
 <!--
 **[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
