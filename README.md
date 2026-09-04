@@ -28,6 +28,12 @@ ___
 
 **[2.6.- Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Diccionarios.ipynb)**
 
+*3.- Operadores*
+
+**[3.1.- Operadores aritmeticos y lógicos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/OperadoresAritmeticosLogicos.ipynb)**   
+
+**[3.2.- Operadores de comparación](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/OperadoresDeComparacion.ipynb)**
+
 <!--
 
 **[Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
