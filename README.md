@@ -8,53 +8,56 @@ ___
 
 *1.- Introducción*  
 
-**[1.1.- Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/DelProblemaAlPrograma.ipynb)**
+**[1.1.- Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/1_1_DelProblemaAlPrograma.ipynb)**
 
-**[1.2.- ¿Qué es Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/QueEsPython.ipynb)**
+**[1.2.- ¿Qué es Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/1_2_Introduccion_Python.ipynb)**
 
-**[1.3.- ¿Donde Ejecutar Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/DondeEjecutarPython.ipynb)**
+**[1.3.- ¿Donde Ejecutar Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/1_3_DondeEjecutarPython.ipynb)**
 
 *2.- Tipos de Datos y Variables*  
 
-**[2.1.- Variables](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Variables.ipynb)**
+**[2.1.- Variables](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/2_1_Variables.ipynb)**
 
-**[2.2.- Enteros y flotantes](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/IntFloat.ipynb)**  
+**[2.2.- Enteros y flotantes](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/2_2_IntFloat.ipynb)**  
 
-**[2.3.- Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Cadenas.ipynb)**  
+**[2.3.- Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/2_3_Cadenas.ipynb)**  
 
-**[2.4.- Booleanos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Booleanos.ipynb)**  
+**[2.4.- Booleanos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/2_4_Booleanos.ipynb)**  
 
-**[2.5.- Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
+**[2.5.- Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/2_5_Listas.ipynb)**
 
-**[2.6.- Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Diccionarios.ipynb)**
+**[2.6.- Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/2_6_Diccionarios.ipynb)**
 
-*3.- Operadores*
+*3.- Operadores*   
 
-**[3.1.- Operadores aritmeticos y lógicos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/OperadoresAritmeticosLogicos.ipynb)**   
+**[3.1.- Operadores aritmeticos y lógicos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/3_1_OperadoresAritmeticosLogicos.ipynb)**   
 
-**[3.2.- Operadores de comparación](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/OperadoresDeComparacion.ipynb)**
+**[3.2.- Operadores de comparación](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/3_2_OperadoresDeComparacion.ipynb)**
 
-<!--
+*4.- Estructuras de Control*   
 
-**[Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
+**[4.1.- Condicionales (if, elif, else)](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/4_1_Condicionales.ipynb)**
 
-**[Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Diccionarios.ipynb)**
+**[4.2.- Bucles (for, while)](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/4_2_CicloForWhile.ipynb)**
 
-**[Estructuras de Control](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Estructuras_de_Control.ipynb)**
+*5.- Funciones*  
+ 
+**[5.1.- Funciones](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/5_1_Funciones.ipynb)**
 
-**[Funciones](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Funciones.ipynb)**
+**[5.2.- Funciones nativas y palabras reservadas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/5_2_FuncionesNativasYPalabrasReservadas.ipynb)** 
 
-**[Clases](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Clases.ipynb)**
+*6.- Manejo de Errores*
 
-**[IDEs](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Editores.ipynb)**
--->
-**Cheat Sheet**
- * [Cheat Sheet 1](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-1.pdf)
- * [Cheat Sheet 2](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-2.pdf)
- * [Cheat Sheet 3](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-3.pdf)
+**[6.1.- Errores Clásicos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/6_1_Errores.ipynb)**
 
-**Módulos**
- * [Importar Módulos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/ImportarModulos.ipynb)
+**[6.2.- Try-Except](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/6_2_Manejos_de_Errores.ipynb)**
+
+*7.- Clases*  
+
+**[7.1.- Clases](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/7_1_Clases.ipynb)**
+
+*8.- Módulos*
+ * [8.1.- Importar Módulos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/8_1_ImportarModulos.ipynb)
  * **Numpy** 
    * [Numpy](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_Numpy.ipynb)
    * [Numpy Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/numpy-cheatsheets.pdf)
@@ -75,6 +78,13 @@ ___
 
  * **Scikit Learn**
    * [Scikit Learn Cheat Sheet](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/scikitlearn-cheatsheets.pdf)
+
+  
+**Hojas de Información de Python (Cheat Sheet)**
+ * [Cheat Sheet 1](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-1.pdf)
+ * [Cheat Sheet 2](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-2.pdf)
+ * [Cheat Sheet 3](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/CheatSheet/python-cheatsheets-3.pdf)  
+ 
 ___
 
 ## Errores & Sugerencias
