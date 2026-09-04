@@ -18,6 +18,9 @@ ___
 
 **[2.1.- Variables](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Variables.ipynb)**
 
+**[2.2.- Enteros y flotantes](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/IntFloat.ipynb)**  
+
+
 <!--
 **[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
 
