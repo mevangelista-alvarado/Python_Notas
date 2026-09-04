@@ -1,5 +1,4 @@
-<!--![urc_logo_ext](https://github.com/user-attachments/assets/63785e7e-b8ca-4465-88d7-17658739d3eb)-->
-<img width="495" height="198" src="https://github.com/user-attachments/assets/63785e7e-b8ca-4465-88d7-17658739d3eb" />
+<img width="1093" height="128" alt="Screenshot 2026-09-03 at 8 01 43 p m" src="https://github.com/user-attachments/assets/7525b57c-38be-47da-a575-59ec5b02be25" />
 
 ___
 
@@ -9,7 +8,10 @@ ___
 
 *1.- Introducción*  
 
-**[Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
+**[Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/DelProblemaAlPrograma.ipynb)**
+
+** [¿Qué es Python?](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/QueEsPython.ipynb)**
+
 <!--
 **[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
 
