@@ -20,11 +20,15 @@ ___
 
 **[2.2.- Enteros y flotantes](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/IntFloat.ipynb)**  
 
+**[2.3.- Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Cadenas.ipynb)**  
+
+**[2.4.- Booleanos](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Booleanos.ipynb)**  
+
+**[2.5.- Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
+
+**[2.6.- Diccionarios](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Diccionarios.ipynb)**
 
 <!--
-**[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
-
-**[Cadenas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Cadenas.ipynb)**
 
 **[Listas](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Listas.ipynb)**
 
