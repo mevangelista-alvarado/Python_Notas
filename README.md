@@ -7,7 +7,8 @@ ___
 Introducción básica en Google colabs al lenguaje de programación Python 
 ___
 
-1.- Introducción
+1.- Introducción  
+
 **[Del problema al programa](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
 <!--
 **[Introducción a Python & Números](https://github.com/mevangelista-alvarado/Python_Notas/blob/master/Intro_a_Python_y_numeros.ipynb)**
